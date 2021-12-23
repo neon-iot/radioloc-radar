@@ -2,14 +2,19 @@
 ## About this course
 This course...
 
+## Main topics
+* This
+* That
+
 ## What you will learn
 * This
 * That
 * ...
 
 ## What you will need:
-* This
-* That
+* (Replace with list of required skills / knowledge)
+* (Specify also if any hardware / lab is required)
+
 
 
 ***
