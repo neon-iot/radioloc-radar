@@ -14,8 +14,7 @@ This course aims to introduce both the basic concepts and current positioning te
 * GNSS
 * Integration of Sensors for positioning
 * Positioning with communication networks 
-* Radio beacon navigation systems (VOR and NBD) and landing systems (ILS and MLS) 
-* Basic Radar arquitectures and algoritms
+* Basic radar architectures and algoritms
 
 ## What you will learn
 In this course the student will be trained in a practice of integrating knowledge acquired in the degree in an area of engineering that has an increasing impact on people's lives. It will be formed starting with the basic tools to determine the position of an object or person, to incorporate more complex and precise strategies throughout the course. It ends with the most complex technique that consists of the integration of sensors. At the end of the course, the student will be able to determine the limitations and precision of different existing or future positioning strategies and the details of their implementation. This will be achieved by a balance between a theoretical training of concepts to evaluate techniques and technologies, technological training and the development of real positioning exercises. 
