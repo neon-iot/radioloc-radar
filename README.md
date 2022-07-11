@@ -1,7 +1,7 @@
 # Radio-Localización y Radares
 ## About this course
 
-Positioning systems provide the localization of a person or an object relative to a known position or within a coordinate system. The need to know the position is historical in humanity, but recently with the combination of knowledge of spatial position and communications, another concept appears, which is ubiquity. Knowing how people and/or things are moving and that this information is available to who or what requires it, has an impact on public policy, the personal and business economy, health (the pandemic and its control is a example), etc The specifications of the quality and the characteristics of the position are very different according to the applications defining the technologies (sensors) and the techniques (algorithms). Both evolve day by day in all possible aspects. 
+Positioning systems provide the localization of a person or an object relative to a known position or within a coordinate system. The need to know the position is historical in humanity, but recently with the combination of knowledge of spatial position and communications, another concept appears, which is ubiquity. Knowing how people and/or things are moving and that this information is available to who or what requires it, has an impact on public policy, the personal and business economy, health (the pandemic and its control is a example), etc The specifications of the quality and the characteristics of the position are very different according to the applications defining the technologies (sensors) and the techniques (algorithms). Both evolve day by day in all possible aspects.
 
 In general, the nodes that are located receive signals from reference stations from which it is possible to determine a position of that node. There is another location scheme known as radar systems. These system emit energy that is returned by the target that is located with respect to the emisor and requires the study of statistical processing techniques and of signals for the detection and estimation of fundamental parameters (position, velocity, acceleration). 
 
@@ -16,7 +16,7 @@ This course aims to introduce both the basic concepts and current positioning te
 * Positioning with communication networks 
 * Basic radar architectures and algoritms
 
-## What you will learn
+## What you will learn:
 In this course the student will be trained in a practice of integrating knowledge acquired in the degree in an area of engineering that has an increasing impact on people's lives. It will be formed starting with the basic tools to determine the position of an object or person, to incorporate more complex and precise strategies throughout the course. It ends with the most complex technique that consists of the integration of sensors. At the end of the course, the student will be able to determine the limitations and precision of different existing or future positioning strategies and the details of their implementation. This will be achieved by a balance between a theoretical training of concepts to evaluate techniques and technologies, technological training and the development of real positioning exercises. 
 
 ## What you will need:
