@@ -37,8 +37,5 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-![Erasmus](https://www.project-neon.eu/wp-content/uploads/2021/01/logo_eu_RX.png)
-![NEON](https://www.project-neon.eu/wp-content/uploads/2021/01/cropped-logo_neon_text-800x305.png)
-
 ![NEON_logo](https://github.com/neon-iot/radioloc-radar/assets/94380520/85b7efae-5764-4dda-a92c-b511c91d4698)
 
