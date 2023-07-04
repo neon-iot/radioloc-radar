@@ -39,3 +39,6 @@ This work is licensed under a
 
 ![Erasmus](https://www.project-neon.eu/wp-content/uploads/2021/01/logo_eu_RX.png)
 ![NEON](https://www.project-neon.eu/wp-content/uploads/2021/01/cropped-logo_neon_text-800x305.png)
+
+![NEON_logo](https://github.com/neon-iot/radioloc-radar/assets/94380520/85b7efae-5764-4dda-a92c-b511c91d4698)
+
