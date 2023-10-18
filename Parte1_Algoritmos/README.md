@@ -1,6 +1,6 @@
 # Module 1: Basic positioning systems based in radio signals
 
-##About this module
+## About this module
 This module introduces location based on radio frequency signals emitted by reference stations. The algorithms, their limitations and exercises based on smartphones or IoT nodes are presented. 
 
 ## Chapter descriptions
